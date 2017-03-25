@@ -1,0 +1,31 @@
+{
+  "name": "saturdaynightrepo",
+  "version": "1.0.1",
+  "description": "Vediamo come funziona sta merda",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sabbestia/saturdaynightrepo"
+  },
+  "keywords": [
+    "popparuolo",
+    "gennarino",
+    "dopoandiamoafiga"
+  ],
+  "author": "ProprioIO",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sabbestia/saturdaynightrepo/issues"
+  },
+  "homepage": "https://github.com/sabbestia/saturdaynightrepo#readme",
+  "dependencies": {
+    "ansi-styles": "^3.0.0"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}

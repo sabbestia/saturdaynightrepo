@@ -20,3 +20,4 @@ saturdaynightrepo.error('this is an error!');
 ## Release History
 * 1.0.0 Initial release 
 * 1.0.1 Due ciappini
+* 1.0.2 Pulizia codice

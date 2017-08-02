@@ -1,7 +1,7 @@
 {
   "name": "saturdaynightrepo",
   "version": "1.0.1",
-  "description": "Vediamo come funziona sta merda",
+  "description": "Vediamo come funziona sta cosa",
   "main": "index.js",
   "scripts": {
     "test": "./node_modules/.bin/mocha --reporter spec"
